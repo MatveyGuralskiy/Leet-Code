@@ -8,3 +8,5 @@ https://leetcode.com/mathewguralskiy/
 2427. Number of Common Factors
 
 2769. Find the Maximum Achievable Number
+
+69. Sqrt(x)
