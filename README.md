@@ -10,3 +10,5 @@ https://leetcode.com/MatveyGuralskiy/
 2769. Find the Maximum Achievable Number
 
 69. Sqrt(x)
+
+195. Tenth line
