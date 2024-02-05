@@ -12,3 +12,5 @@ https://leetcode.com/MatveyGuralskiy/
 69. Sqrt(x)
 
 195. Tenth line
+
+387. First Unique Character in a String
