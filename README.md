@@ -20,6 +20,7 @@ https://leetcode.com/MatveyGuralskiy/
 
 *268. Missing Number
 
+*1603. Design Parking System
 
 ## 📢 Additional Information
 I hope you liked my repository, don’t forget to rate it and if you notice a code malfunction or any other errors.
