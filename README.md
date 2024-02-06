@@ -6,19 +6,19 @@ https://leetcode.com/MatveyGuralskiy/
 
 ## ✅List of solutions:
 
-2427. Number of Common Factors
+*2427. Number of Common Factors
 
-2769. Find the Maximum Achievable Number
+*2769. Find the Maximum Achievable Number
 
-69. Sqrt(x)
+*69. Sqrt(x)
 
-195. Tenth line
+*195. Tenth line
 
-387. First Unique Character in a String
+*387. First Unique Character in a String
 
-193. Valid Phone Numbers
+*193. Valid Phone Numbers
 
-268. Missing Number
+*268. Missing Number
 
 
 ## 📢 Additional Information
