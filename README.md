@@ -30,7 +30,13 @@ https://leetcode.com/MatveyGuralskiy/
 
 *1. Two sum
 
-*9.Palindrome number
+*9. Palindrome number
+
+*1006. Clumsy Factorial
+
+*1108. Defanging an IP Address
+
+*2824. Count Pairs less target
 
 ## 📢 Additional Information
 I hope you liked my repository, don’t forget to rate it and if you notice a code malfunction or any other errors.
