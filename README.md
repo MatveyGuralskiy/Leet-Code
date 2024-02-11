@@ -1,5 +1,7 @@
-# ⚡Leet-Code
-Leet-code Solutions of problems
+# ⚡Leet-Code Solutions
+Leet-code Solutions of problems using programming languages ​​such as Python, C++ and Bash.
+
+Here are all the solutions to problems from my personal profile
 
 ## 👨🏻‍💻Profile
 https://leetcode.com/MatveyGuralskiy/
