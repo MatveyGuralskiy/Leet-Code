@@ -1,3 +1,20 @@
+Given a text file file.txt, transpose its content.
+
+You may assume that each row has the same number of columns, and each field is separated by the ' ' character.
+
+Example:
+
+If file.txt has the following content:
+
+name age
+alice 21
+ryan 30
+Output the following:
+
+name alice ryan
+age 21 30
+
+
 awk '{for(i=1;i<=NF;i++) a[i]=(a[i]?a[i] FS $i:$i)} END {for(i=1;i<=NF;i++) print a[i]}' file.txt
 
 This command concatenates words from all lines into one line, separating them with spaces, and then prints each word on a separate line. NF represents the number of fields in the current line, FS is the field separator (by default it is space). a[i] is an array used to accumulate words from each line. The END block executes after processing all lines of the file, where each word from the array a is printed on a separate line.
