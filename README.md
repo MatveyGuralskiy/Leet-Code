@@ -3,6 +3,8 @@ Leet-code Solutions of problems using programming languages ​​such as Python
 
 Here are all the solutions to problems from my personal profile
 
+<p><img src="https://media.licdn.com/dms/image/D5622AQFkk63O81J1ag/feedshare-shrink_800/0/1681102338190?e=2147483647&v=beta&t=YbYrGuF7uCEUIWlWmydfY56_PHU_UnoqpIF0OAXM8rA" style="height:350px; width:700px" /></p>
+
 ## 👨🏻‍💻Profile
 https://leetcode.com/MatveyGuralskiy/
 
