@@ -1,9 +1,13 @@
 # ⚡Leet-Code Solutions
-Leet-code Solutions of problems using programming languages ​​such as Python, C++ and Bash.
+Here, you'll find a comprehensive collection of solutions to various coding challenges from platforms like LeetCode.
+
+Whether you're a beginner looking to learn algorithms or an experienced developer honing your problem-solving skills, this repository offers clear, well-commented solutions in multiple programming languages.
+
+Solutions of problems using programming languages ​​such as Python, C++ and Bash.
 
 Here are all the solutions to problems from my personal profile
 
-<p><img src="https://media.licdn.com/dms/image/D5622AQFkk63O81J1ag/feedshare-shrink_800/0/1681102338190?e=2147483647&v=beta&t=YbYrGuF7uCEUIWlWmydfY56_PHU_UnoqpIF0OAXM8rA" style="height:350px; width:700px" /></p>
+<p><img src="https://github.com/husain3012/leetcode-public-api/assets/49821470/3b30b00f-e39f-4dea-9aea-0e71557ff669" style="height:250px; width:700px" /></p>
 
 ## 👨🏻‍💻Profile
 https://leetcode.com/MatveyGuralskiy/
