@@ -7,7 +7,7 @@ Solutions of problems using programming languages ​​such as Python, C++ and 
 
 Here are all the solutions to problems from my personal profile
 
-<p><img src="https://github.com/husain3012/leetcode-public-api/assets/49821470/3b30b00f-e39f-4dea-9aea-0e71557ff669" style="height:250px; width:700px" /></p>
+<p><img src="https://github.com/husain3012/leetcode-public-api/assets/49821470/3b30b00f-e39f-4dea-9aea-0e71557ff669" style="height:270px; width:700px" /></p>
 
 ## 👨🏻‍💻Profile
 https://leetcode.com/MatveyGuralskiy/
