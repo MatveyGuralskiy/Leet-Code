@@ -88,6 +88,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *997. Find the Town Judge
 
+*28. Find the Index of the First Occurrence in a String
+
 ## 📢 Additional Information
 I hope you liked my repository, don’t forget to rate it and if you notice a code malfunction or any other errors.
 Don’t hesitate to correct them and be able to improve your project for others
