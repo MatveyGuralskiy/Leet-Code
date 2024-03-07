@@ -113,6 +113,8 @@ https://leetcode.com/MatveyGuralskiy/
 *2667. Create Hello World Function
 
 *2627. Debounce
+
+*2704. To be or not to be
 ## 📢 Additional Information
 I hope you liked my repository, don’t forget to rate it and if you notice a code malfunction or any other errors.
 Don’t hesitate to correct them and be able to improve your project for others
