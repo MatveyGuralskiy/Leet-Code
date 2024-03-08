@@ -1,4 +1,13 @@
-# ⚡Leet-Code Solutions
+<div align=center>
+  <h1>⚡Leet-Code Stats: </h1>
+  <h2> All My code solutions from Leet-Code </h2>
+  
+  ![](https://leetcard.jacoblin.cool/MatveyGuralskiy)
+</div>
+<br>
+
+
+# 💠 About the Solutions
 Here, you'll find a comprehensive collection of solutions to various coding challenges from platforms like LeetCode.
 
 Whether you're a beginner looking to learn algorithms or an experienced developer honing your problem-solving skills, this repository offers clear, well-commented solutions in multiple programming languages.
