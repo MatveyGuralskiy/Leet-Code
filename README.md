@@ -134,6 +134,8 @@ https://leetcode.com/MatveyGuralskiy/
 *2629. Function Composition
 
 *2666. Allow One Function Call
+
+*2727. Is Object Empty
 ## 📢 Additional Information
 I hope you liked my repository, don’t forget to rate it and if you notice a code malfunction or any other errors.
 Don’t hesitate to correct them and be able to improve your project for others
