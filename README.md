@@ -129,6 +129,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2667. Create Hello World Function
 
+*2677. Chunk Array
+
 *2704. To be or not to be
 
 *2727. Is Object Empty
