@@ -101,6 +101,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2723. Add Two Promises
 
+*2724. Sort By
+
 *2879. Display the First Three Rows
 
 *2881. Create a New Column
