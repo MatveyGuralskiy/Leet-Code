@@ -61,8 +61,6 @@ https://leetcode.com/MatveyGuralskiy/
 
 *234. Palindrome linked list
 
-*2427. Number of Common Factors
-
 *268. Missing Number
 
 *387. First Unique Character in a String
@@ -97,17 +95,7 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2149. Rearrange Array Elements by Sign
 
-*2703. Return Length of Arguments Passed
-
-*2723. Add Two Promises
-
-*2724. Sort By
-
-*2879. Display the First Three Rows
-
-*2881. Create a New Column
-
-*2884. Modify Columns
+*2427. Number of Common Factors
 
 *2619. Array Prototype Last
 
@@ -133,9 +121,21 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2677. Chunk Array
 
+*2703. Return Length of Arguments Passed
+
 *2704. To be or not to be
 
+*2723. Add Two Promises
+
+*2724. Sort By
+
 *2727. Is Object Empty
+
+*2879. Display the First Three Rows
+
+*2881. Create a New Column
+
+*2884. Modify Columns
 
 ## 📢 Additional Information
 I hope you liked my repository, don’t forget to rate it and if you notice a code malfunction or any other errors.
