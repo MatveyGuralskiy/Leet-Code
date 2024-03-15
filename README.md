@@ -125,6 +125,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2704. To be or not to be
 
+*2722. Join Two Arrays by ID
+
 *2723. Add Two Promises
 
 *2724. Sort By
