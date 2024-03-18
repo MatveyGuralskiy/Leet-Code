@@ -103,6 +103,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2621. Sleep
 
+*2623. Memoize
+
 *2626. Array Reduce Transformation
 
 *2627. Debounce
