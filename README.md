@@ -129,6 +129,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2704. To be or not to be
 
+*2705. Compact Object
+
 *2715. Timeout Cancellation
 
 *2722. Join Two Arrays by ID
