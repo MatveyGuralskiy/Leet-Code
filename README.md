@@ -139,6 +139,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2724. Sort By
 
+*2725. Interval Cancellation
+
 *2727. Is Object Empty
 
 *2879. Display the First Three Rows
