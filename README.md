@@ -127,6 +127,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2677. Chunk Array
 
+*2695. Array Wrapper
+
 *2703. Return Length of Arguments Passed
 
 *2704. To be or not to be
