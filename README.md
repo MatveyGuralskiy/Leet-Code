@@ -131,6 +131,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2677. Chunk Array
 
+*2694. Event Emitter
+
 *2695. Array Wrapper
 
 *2703. Return Length of Arguments Passed
