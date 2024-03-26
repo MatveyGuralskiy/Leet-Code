@@ -143,6 +143,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2715. Timeout Cancellation
 
+*2721. Execute Asynchronous Functions in Parallel
+
 *2722. Join Two Arrays by ID
 
 *2723. Add Two Promises
