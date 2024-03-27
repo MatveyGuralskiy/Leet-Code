@@ -103,6 +103,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2621. Sleep
 
+*2622. Cache With Time Limit
+
 *2623. Memoize
 
 *2625. Flatten Deeply Nested Array
