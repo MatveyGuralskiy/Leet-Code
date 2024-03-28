@@ -157,6 +157,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2725. Interval Cancellation
 
+*2726. Calculator with Method Chaining
+
 *2727. Is Object Empty
 
 *2879. Display the First Three Rows
