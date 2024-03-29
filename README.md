@@ -127,6 +127,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2648. Generate Fibonacci Sequence
 
+*2649. Nested Array Generator
+
 *2665. Counter ll
 
 *2666. Allow One Function Call
