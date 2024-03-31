@@ -33,6 +33,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *21. Merge Two Sorted Lists
 
+*27. Remove Element
+
 *28. Find the Index of the First Occurrence in a String
 
 *58. Length of Last Word
