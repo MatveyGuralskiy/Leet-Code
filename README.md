@@ -93,6 +93,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *1603. Design Parking System
 
+*1920. Build Array from Permutation
+
 *1929. Concatenation of Array
 
 *2108. Find First Palindromic String in the Array
