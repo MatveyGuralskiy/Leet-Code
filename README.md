@@ -87,6 +87,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *1108. Defanging an IP Address
 
+*1470. Shuffle the Array
+
 *1480. Running Sum of 1d Array
 
 *1512. Number of Good Pairs
