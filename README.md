@@ -181,6 +181,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2888. Reshape Data Concatenate
 
+*2942. Find Words Containing Character
+
 ## 📢 Additional Information
 I hope you liked my repository, don’t forget to rate it and if you notice a code malfunction or any other errors.
 Don’t hesitate to correct them and be able to improve your project for others
