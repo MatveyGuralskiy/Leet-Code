@@ -183,6 +183,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2888. Reshape Data Concatenate
 
+*2894. Divisible and Non-divisible Sums Difference
+
 *2942. Find Words Containing Character
 
 ## 📢 Additional Information
