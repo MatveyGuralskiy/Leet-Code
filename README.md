@@ -107,6 +107,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2149. Rearrange Array Elements by Sign
 
+*2413. Smallest Even Multiple
+
 *2427. Number of Common Factors
 
 *2469. Convert the Temperature
