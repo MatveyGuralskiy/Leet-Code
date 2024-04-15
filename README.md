@@ -111,6 +111,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2235. Add Two Integers
 
+*2396. Strictly Palindromic Number
+
 *2413. Smallest Even Multiple
 
 *2427. Number of Common Factors
