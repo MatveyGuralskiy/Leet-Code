@@ -89,6 +89,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *1281. Subtract the Product and Sum of Digits Integer
 
+*1365. How Many Numbers Are Smaller Than the Current Number
+
 *1470. Shuffle the Array
 
 *1480. Running Sum of 1d Array
