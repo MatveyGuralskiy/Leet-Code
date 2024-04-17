@@ -111,6 +111,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2149. Rearrange Array Elements by Sign
 
+*2160. Minimum Sum of Four Digit Number After Splitting Digits
+
 *2235. Add Two Integers
 
 *2396. Strictly Palindromic Number
