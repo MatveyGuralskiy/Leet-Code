@@ -93,6 +93,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *1281. Subtract the Product and Sum of Digits Integer
 
+*1323. Maximum 69 Number
+
 *1365. How Many Numbers Are Smaller Than the Current Number
 
 *1470. Shuffle the Array
