@@ -103,6 +103,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *1512. Number of Good Pairs
 
+*1526. Minimum Number of Increments on Subarrays to Form a Target Array
+
 *1603. Design Parking System
 
 *1859. Sorting the Sentence
