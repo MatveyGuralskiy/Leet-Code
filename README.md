@@ -77,6 +77,10 @@ https://leetcode.com/MatveyGuralskiy/
 
 *647. Palindromic substrings
 
+*709. To Lower Case
+
+*771. Jewels and Stones
+
 *876. Middle Linked List
 
 *977. Squares of a Sorted Array
