@@ -127,6 +127,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *2413. Smallest Even Multiple
 
+*2418. Sort the People
+
 *2427. Number of Common Factors
 
 *2469. Convert the Temperature
