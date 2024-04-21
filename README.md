@@ -103,6 +103,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *1603. Design Parking System
 
+*1859. Sorting the Sentence
+
 *1920. Build Array from Permutation
 
 *1929. Concatenation of Array
