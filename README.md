@@ -65,6 +65,8 @@ https://leetcode.com/MatveyGuralskiy/
 
 *234. Palindrome linked list
 
+*263. Ugly Number
+
 *268. Missing Number
 
 *387. First Unique Character in a String
