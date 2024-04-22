@@ -20,8 +20,8 @@ Here are all the solutions to problems from my personal profile
 <p><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRiOXhicXF4MGVtZGNscnhjOXA3aDBmcHZ5NXQ4Z3Q3dmo2ZjM5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" style="height:450px; width:450px" /></p>
 </div>
 
-## 👨🏻‍💻Profile
-https://leetcode.com/MatveyGuralskiy/
+## [👨🏻‍💻Profile](https://leetcode.com/MatveyGuralskiy/)
+
 
 ## ✅List of solutions:
 
