@@ -215,6 +215,8 @@ Here are all the solutions to problems from my personal profile
 
 *2942. Find Words Containing Character
 
+*2956. Find Common Elements Between Two Arrays
+
 *3110. Score of a String
 
 ## 📢 Additional Information
