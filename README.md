@@ -43,6 +43,8 @@ Here are all the solutions to problems from my personal profile
 
 *66. Plus One
 
+*67. Add Binary
+
 *69. Sqrt(x)
 
 *83. Remove Duplicates from Sorted List
