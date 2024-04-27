@@ -31,6 +31,8 @@ Here are all the solutions to problems from my personal profile
 
 *13. Roman to integer
 
+*20. Valid Parentheses
+
 *21. Merge Two Sorted Lists
 
 *27. Remove Element
