@@ -107,6 +107,8 @@ Here are all the solutions to problems from my personal profile
 
 *1365. How Many Numbers Are Smaller Than the Current Number
 
+*1389. Create Target Array in the Given Order
+
 *1470. Shuffle the Array
 
 *1480. Running Sum of 1d Array
