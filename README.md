@@ -51,6 +51,8 @@ Here are all the solutions to problems from my personal profile
 
 *94. Binary Tree Inorder Traversal
 
+*100. Same Tree
+
 *118. Pascal's Triangle
 
 *136. Single number
