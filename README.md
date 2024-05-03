@@ -77,6 +77,8 @@ Here are all the solutions to problems from my personal profile
 
 *268. Missing Number
 
+*338. Counting Bits
+
 *387. First Unique Character in a String
 
 *459. Repeated Substring Pattern
