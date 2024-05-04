@@ -187,6 +187,8 @@ Here are all the solutions to problems from my personal profile
 
 *2649. Nested Array Generator
 
+*2652. Sum Multiples
+
 *2665. Counter ll
 
 *2666. Allow One Function Call
