@@ -125,6 +125,8 @@ Here are all the solutions to problems from my personal profile
 
 *1526. Minimum Number of Increments on Subarrays to Form a Target Array
 
+*1528. Shuffle String
+
 *1603. Design Parking System
 
 *1859. Sorting the Sentence
