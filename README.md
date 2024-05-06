@@ -145,6 +145,8 @@ Here are all the solutions to problems from my personal profile
 
 *2160. Minimum Sum of Four Digit Number After Splitting Digits
 
+*2215. Find the Difference of Two Arrays
+
 *2235. Add Two Integers
 
 *2396. Strictly Palindromic Number
