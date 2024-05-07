@@ -159,6 +159,8 @@ Here are all the solutions to problems from my personal profile
 
 *2469. Convert the Temperature
 
+*2553. Separate the Digits in an Array
+
 *2574. Left and Right Sum Differences
 
 *2619. Array Prototype Last
