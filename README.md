@@ -83,6 +83,8 @@ Here are all the solutions to problems from my personal profile
 
 *459. Repeated Substring Pattern
 
+*506. Relative Ranks
+
 *509. Fibonacci number
 
 *541. Reverse String II
