@@ -241,6 +241,8 @@ Here are all the solutions to problems from my personal profile
 
 *2884. Modify Columns
 
+*2885. Rename Columns
+
 *2888. Reshape Data Concatenate
 
 *2894. Divisible and Non-divisible Sums Difference
