@@ -115,6 +115,8 @@ Here are all the solutions to problems from my personal profile
 
 *1137. N-th Tribonacci Number
 
+*1148. Article Views I
+
 *1281. Subtract the Product and Sum of Digits Integer
 
 *1323. Maximum 69 Number
