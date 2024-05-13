@@ -135,6 +135,8 @@ Here are all the solutions to problems from my personal profile
 
 *1603. Design Parking System
 
+*1683. Invalid Tweets
+
 *1732. Find the Highest Altitude
 
 *1757. Recyclable and Low Fat Products
