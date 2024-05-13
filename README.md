@@ -135,6 +135,8 @@ Here are all the solutions to problems from my personal profile
 
 *1732. Find the Highest Altitude
 
+*1757. Recyclable and Low Fat Products
+
 *1859. Sorting the Sentence
 
 *1920. Build Array from Permutation
