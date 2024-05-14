@@ -125,6 +125,8 @@ Here are all the solutions to problems from my personal profile
 
 *1365. How Many Numbers Are Smaller Than the Current Number
 
+*1378. Replace Employee ID With The Unique Identifier
+
 *1389. Create Target Array in the Given Order
 
 *1470. Shuffle the Array
@@ -136,6 +138,8 @@ Here are all the solutions to problems from my personal profile
 *1526. Minimum Number of Increments on Subarrays to Form a Target Array
 
 *1528. Shuffle String
+
+*1581. Customer Who Visited but Did Not Make Any Transactions
 
 *1603. Design Parking System
 
