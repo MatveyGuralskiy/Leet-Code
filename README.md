@@ -59,6 +59,8 @@ Here are all the solutions to problems from my personal profile
 
 *169. Majority element
 
+*175. Combine Two Tables
+
 *192. Word Frequency
 
 *193. Valid Phone Numbers
