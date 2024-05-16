@@ -61,6 +61,8 @@ Here are all the solutions to problems from my personal profile
 
 *175. Combine Two Tables
 
+*182. Duplicate Emails
+
 *192. Word Frequency
 
 *193. Valid Phone Numbers
