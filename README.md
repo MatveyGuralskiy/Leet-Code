@@ -275,6 +275,8 @@ Here are all the solutions to problems from my personal profile
 
 *3131. Find the Integer Added to Array I
 
+*3146. Permutation Difference between Two Strings
+
 ## 📢 Additional Information
 I hope you liked my repository, don’t forget to rate it and if you notice a code malfunction or any other errors.
 Don’t hesitate to correct them and be able to improve your project for others
