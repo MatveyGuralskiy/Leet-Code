@@ -127,6 +127,8 @@ Here are all the solutions to problems from my personal profile
 
 *1148. Article Views I
 
+*1280. Students and Examinations
+
 *1281. Subtract the Product and Sum of Digits Integer
 
 *1323. Maximum 69 Number
