@@ -73,6 +73,8 @@ Here are all the solutions to problems from my personal profile
 
 *195. Tenth line
 
+*197. Rising Temperature
+
 *206. Reverse linked list
 
 *231. Power of Two
