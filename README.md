@@ -107,6 +107,8 @@ Here are all the solutions to problems from my personal profile
 
 *595. Big Countries
 
+*620. Not Boring Movies
+
 *647. Palindromic substrings
 
 *709. To Lower Case
