@@ -125,6 +125,8 @@ Here are all the solutions to problems from my personal profile
 
 *1068. Product Sales Analysis I
 
+*1075. Project Employees I
+
 *1108. Defanging an IP Address
 
 *1137. N-th Tribonacci Number
