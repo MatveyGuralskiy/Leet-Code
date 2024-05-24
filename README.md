@@ -101,6 +101,8 @@ Here are all the solutions to problems from my personal profile
 
 *557. Reverse Words in a String III
 
+*570. Managers with at Least 5 Direct Reports
+
 *577. Employee Bonus
 
 *584. Find Customer Referee
