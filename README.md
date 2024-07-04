@@ -243,6 +243,8 @@ Here are all the solutions to problems from my personal profile
 
 *2677. Chunk Array
 
+*2682. Find the Losers of the Circular Game
+
 *2694. Event Emitter
 
 *2695. Array Wrapper
