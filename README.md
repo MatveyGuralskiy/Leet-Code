@@ -227,6 +227,8 @@ Here are all the solutions to problems from my personal profile
 
 *2637. Promise Time Limit
 
+*2643. Row With Maximum Ones
+
 *2648. Generate Fibonacci Sequence
 
 *2649. Nested Array Generator
